@@ -28,6 +28,7 @@ body {
   border-radius: 8px;
 
   box-shadow: 2px 2px 5px #2773a5;
+  z-index: 2;
 }
 
 .signup-header h1 {
@@ -80,4 +81,22 @@ body {
 
 .signup-footer p a {
   color: #3498db;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  background: linear-gradient(to top right, #ffffff33, #ffffffff);
+  position: absolute;
+}
+
+.c1 {
+  top: 100px;
+  left: 40px;
+}
+
+.c2 {
+  top: 300px;
+  right: 100px;
 }
