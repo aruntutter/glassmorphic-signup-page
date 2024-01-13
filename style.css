@@ -48,6 +48,7 @@ body {
 
 .signup-body p label {
   display: block;
+  color: #212121;
 }
 
 .signup-body p input {
@@ -68,4 +69,13 @@ body {
 
 .signup-body p input[type="submit"]:hover {
   background-color: #0a6eb2;
+}
+
+.signup-footer p {
+  text-align: center;
+  color: #555;
+}
+
+.signup-footer p a {
+  color: #3498db;
 }
