@@ -14,8 +14,8 @@
 
 ## Links
 
-- Solution URL: [GitHub Repository](https://github.com/your-username/GlassMorphic-SignUp-Page)
-- Live Demo: [Live Demo URL](https://your-project-live-demo-url.com)
+- Solution URL: [GitHub Repository](https://github.com/aruntutter/glassmorphic-signup-page/tree/main).
+- Live Demo: [Live Demo URL](https://playful-chimera-e507b5.netlify.app/)
 
 ## Description
 
@@ -27,7 +27,7 @@ A GlassMorphic-themed SignUp Page built with HTML and CSS. This project provides
 
 ## Demo
 
-Check out the live demo [here](https://your-project-live-demo-url.com).
+Check out the live demo [here](https://playful-chimera-e507b5.netlify.app/).
 
 ## Features
 
